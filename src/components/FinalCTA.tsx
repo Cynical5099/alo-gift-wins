@@ -15,7 +15,7 @@ const FinalCTA = () => {
         <Button 
           variant="cta" 
           size="xl"
-          className="text-xl py-4 px-12"
+          className="text-lg sm:text-xl py-3 sm:py-4 px-8 sm:px-12 w-full sm:w-auto min-h-[3rem] sm:min-h-[3.5rem]"
           onClick={() => window.open('https://offerlnks.com/aff_c?offer_id=378&aff_id=21664&source=tiktok3', '_blank')}
         >
           Start My Reward

@@ -8,11 +8,11 @@ const FAQ = () => {
     },
     {
       question: "When will I receive my reward?",
-      answer: "Gift cards are typically delivered within 3-7 business days after completing the required deals. The more deals you complete, the faster your reward arrives."
+      answer: "Gift cards are typically delivered within 3-7 business days after completing the required deals. The more deals you complete, the better your overall reward experience."
     },
     {
-      question: "Why do more deals mean faster gift cards?",
-      answer: "Completing additional deals shows engagement and helps us process your reward faster. While 3 deals is the minimum, completing 5+ deals can expedite your gift card delivery."
+      question: "Why do more deals mean better rewards?",
+      answer: "Completing additional deals enhances your overall reward experience and may unlock bonus benefits. While 3 deals is the minimum, completing 5+ deals maximizes your reward potential."
     },
     {
       question: "Is this legitimate?",
